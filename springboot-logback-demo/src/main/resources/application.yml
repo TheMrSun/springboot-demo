@@ -1,0 +1,7 @@
+server:
+  port: 8082
+  servlet:
+    context-path: /logback-demo
+spring:
+  profiles:
+    active: dev
