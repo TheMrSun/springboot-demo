@@ -8,8 +8,8 @@
 
 - [X] springboot-demo-helloworld (hello world)
 - [X] springboot-demo-properties (读取配置文件中的值)
-- [ ] springboot-demo-logback (日志信息-logback)
-- [ ] springboot-demo-log-aop (aop拦截请求日志信息)
+- [X] springboot-demo-logback (日志信息-logback)
+- [X] springboot-demo-log-aop (aop拦截请求日志信息)
 - [ ] springboot-demo-template-freemarker (模板引擎-freemarker)
 - [ ] springboot-demo-template-thymeleaf (模板引擎-thymeleaf)
 - [ ] springboot-demo-template-beetl (模板引擎-beetl)
