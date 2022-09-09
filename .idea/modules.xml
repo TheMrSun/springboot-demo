@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/springboot-demo-helloworld/springboot-demo-helloworld.iml" filepath="$PROJECT_DIR$/springboot-demo-helloworld/springboot-demo-helloworld.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-demo-log-aop/springboot-demo-log-aop.iml" filepath="$PROJECT_DIR$/springboot-demo-log-aop/springboot-demo-log-aop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-demo-properties/springboot-demo-properties.iml" filepath="$PROJECT_DIR$/springboot-demo-properties/springboot-demo-properties.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-logback-demo/springboot-logback-demo.iml" filepath="$PROJECT_DIR$/springboot-logback-demo/springboot-logback-demo.iml" />
+    </modules>
+  </component>
+</project>

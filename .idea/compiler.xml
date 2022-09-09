@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="springboot-demo-properties" />
+        <module name="springboot-logback-demo" />
+        <module name="springboot-demo-log-aop" />
+        <module name="springboot-demo-helloworld" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="springboot-demo-helloworld" target="1.8" />
+      <module name="springboot-demo-log-aop" target="1.8" />
+      <module name="springboot-demo-properties" target="1.8" />
+      <module name="springboot-logback-demo" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
