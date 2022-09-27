@@ -1,0 +1,9 @@
+server:
+  port: 8090
+  tomcat:
+    uri-encoding: UTF-8
+  servlet:
+    context-path: /demo-mybatis
+spring:
+  profiles:
+    active: dev
