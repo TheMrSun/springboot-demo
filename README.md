@@ -15,7 +15,7 @@
 - [ ] springboot-demo-template-beetl (模板引擎-beetl)
 - [ ] springboot-demo-orm-jdbctemplate (操作 SQL 关系型数据库 - JdbcTemplate)
 - [ ] springboot-demo-orm-jpa (操作 SQL 关系型数据库 - JPA)
-- [ ] springboot-demo-orm-mybatis (操作 SQL 关系型数据库 - mybatis)
+- [X] springboot-demo-orm-mybatis (操作 SQL 关系型数据库 - mybatis)
 - [ ] springboot-demo-orm-mybatis-mapper-page (操作 SQL 关系型数据库 - 集成mybatis通用Mapper,PageHelper)
 - [ ] springboot-demo-orm-mybatis-plus (操作 SQL 关系型数据库 - 集成mybatis-plus，Mapper操作、ActiveRecord操作)
 - [ ] springboot-demo-multi-datasource-jpa (集成JPA多数据源)
