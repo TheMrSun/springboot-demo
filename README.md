@@ -24,8 +24,8 @@
 - [ ] springboot-demo-cache-ehcache(Ehcache - 进行缓存)
 - [ ] springboot-demo--mongodb(文档数据库 - mongodb)
 - [ ] springboot-demo-neo4j(图数据库 - neo4j)
-- [ ] springboot-demo-swagger (Swagger - API 接口进行测试管理)
-- [ ] springboot-demo-swagger-beauty (Swagger - API 接口进行测试管理,页面美化)
+- [X] springboot-demo-swagger (Swagger - API 接口进行测试管理)
+- [X] springboot-demo-swagger-beauty (Swagger - API 接口进行测试管理,页面美化) - 后续好的页面更新
 - [ ] springboot-demo-rbac-security ( Spring Security - 实现基于 RBAC 的权限模型)
 - [ ] springboot-demo-rbac-shiro (shiro - 实现基于 RBAC 的权限模型)
 - [ ] springboot-demo-session (统一 Session 管理)
